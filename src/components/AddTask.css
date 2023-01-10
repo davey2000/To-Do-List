@@ -1,0 +1,56 @@
+.add-task {
+    background-color: rgb(190 242 100);;
+    height: calc(100vh - 80px);
+    width: 50%;
+    padding: 100px 50px 50px 50px;
+  }
+  .add-task__title{
+    display: flex;
+    place-items: center;
+    gap: 10px;
+  }
+  .add-task__title__text{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    text-decoration: underline;
+  }
+  .add-task__title__icon{
+    width: 25px;
+  }
+  .add-task__inputs{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .input{
+    width:100% ;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: black;
+  }
+  .input:focus{
+    outline: none;
+  }
+  .add-task__inputs__content{
+    resize: none;
+    height: 120px;
+  }
+  .add-task__inputs__submit{
+    margin-top: 10px;
+    width: 250px;
+    margin-inline: auto;
+    padding: 8px;
+    color: black;
+    border: 2px solid black;
+    background-color: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .add-task__lether-count{
+    text-align: right;
+    color: black;
+    font-size: 12px;
+  }

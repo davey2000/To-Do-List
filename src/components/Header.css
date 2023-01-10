@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    padding: 20px;
+    height: 80px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.205);
+    transform: scale(1);
+    background: linear-gradient(to right, #f12711, #f5af19);
+  }
+  .header__title,
+  .header__icon {
+    font-size: 35px;
+    color: rgb(190 242 100);
+    margin: auto;
+  }
+  
