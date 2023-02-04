@@ -1,3 +1,8 @@
+A colorful React To-Do list using toastify for notifications and context for CRUD operations. 
+![Screen Shot 2023-02-04 at 6 28 23 AM](https://user-images.githubusercontent.com/85129290/216765008-9a4bf062-24d9-4719-aeac-3c0cf33dd020.png)
+![Screen Shot 2023-02-04 at 6 24 36 AM](https://user-images.githubusercontent.com/85129290/216765010-b2760b7c-8799-4e4f-8365-038f96a71577.png)
+![Screen Shot 2023-02-04 at 6 25 42 AM](https://user-images.githubusercontent.com/85129290/216765014-64650840-675a-46c1-ae2c-3cd5f4f33ea5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
